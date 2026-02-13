@@ -8,11 +8,14 @@ class Solution {
             if((nums[i]+nums[j])==target){
                 ar[0]=i;
                 ar[1]=j;
-                return ar;
+                break;
+            }
+            if((nums[i]+nums[j])==target){
+                break;
             }
         }
         
     }
-    return ar;
+        return ar;
 } 
 }

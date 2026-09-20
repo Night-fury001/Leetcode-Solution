@@ -45,3 +45,15 @@
 
 - **Sync Engine:** [joshcai/leetcode-sync](https://github.com/joshcai/leetcode-sync)
 - **Execution:** Automated daily sync via GitHub Actions (`cron: '0 18 * * *'`)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/Night-fury001/Leetcode-Solution/tree/master/0367-valid-perfect-square) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/Night-fury001/Leetcode-Solution/tree/master/0367-valid-perfect-square) |
+<!---LeetCode Topics End-->

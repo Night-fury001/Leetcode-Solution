@@ -56,4 +56,12 @@
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Night-fury001/Leetcode-Solution/tree/master/0367-valid-perfect-square) |
+## String
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Night-fury001/Leetcode-Solution/tree/master/3498-reverse-degree-of-a-string) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Night-fury001/Leetcode-Solution/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->

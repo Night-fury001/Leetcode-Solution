@@ -52,6 +52,7 @@
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Night-fury001/Leetcode-Solution/tree/master/0367-valid-perfect-square) |
+| [3492-maximum-containers-on-a-ship](https://github.com/Night-fury001/Leetcode-Solution/tree/master/3492-maximum-containers-on-a-ship) |
 ## Binary Search
 |  |
 | ------- |

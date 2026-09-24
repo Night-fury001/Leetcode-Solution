@@ -53,6 +53,7 @@
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Night-fury001/Leetcode-Solution/tree/master/0367-valid-perfect-square) |
 | [3492-maximum-containers-on-a-ship](https://github.com/Night-fury001/Leetcode-Solution/tree/master/3492-maximum-containers-on-a-ship) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Night-fury001/Leetcode-Solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,4 +66,8 @@
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/Night-fury001/Leetcode-Solution/tree/master/3498-reverse-degree-of-a-string) |
+## Array
+|  |
+| ------- |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Night-fury001/Leetcode-Solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 <!---LeetCode Topics End-->

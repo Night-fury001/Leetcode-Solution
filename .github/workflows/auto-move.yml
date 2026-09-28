@@ -14,7 +14,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Smart Merge (Keep Unique Approaches, Discard Duplicates)
+      - name: Smart Merge (Sequential Naming, Discard Duplicates)
         run: |
           mkdir -p solutions
           moved=0
@@ -48,11 +48,17 @@ jobs:
                       # 3. Code matches an existing approach perfectly; throw it away
                       rm "$file"
                     elif [ -f "${target}${filename}" ]; then
-                      # 4. Code is entirely new, but filename exists; save as a new approach
-                      timestamp=$(date +%s)
+                      # 4. Code is entirely new, but filename exists; assign next sequential number
                       name="${filename%.*}"
                       ext="${filename##*.}"
-                      mv "$file" "${target}${name}_${timestamp}.${ext}"
+                      counter=2
+                      
+                      # Loop to find the next available number (e.g., _2, _3, _4)
+                      while [ -f "${target}${name}_${counter}.${ext}" ]; do
+                        counter=$((counter + 1))
+                      done
+                      
+                      mv "$file" "${target}${name}_${counter}.${ext}"
                     else
                       # 5. First time solving; move normally
                       mv "$file" "$target"

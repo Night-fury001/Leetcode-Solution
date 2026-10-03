@@ -73,6 +73,7 @@
 ## Array
 |  |
 | ------- |
+| [3467-transform-array-by-parity](https://github.com/Night-fury001/Leetcode-Solution/tree/master/3467-transform-array-by-parity) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Night-fury001/Leetcode-Solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Stack
 |  |
@@ -96,4 +97,12 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Night-fury001/Leetcode-Solution/tree/master/0022-generate-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/Night-fury001/Leetcode-Solution/tree/master/3467-transform-array-by-parity) |
+## Counting
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/Night-fury001/Leetcode-Solution/tree/master/3467-transform-array-by-parity) |
 <!---LeetCode Topics End-->

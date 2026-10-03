@@ -62,6 +62,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Night-fury001/Leetcode-Solution/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Night-fury001/Leetcode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Night-fury001/Leetcode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/Night-fury001/Leetcode-Solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
@@ -76,10 +77,16 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Night-fury001/Leetcode-Solution/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Night-fury001/Leetcode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Night-fury001/Leetcode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Night-fury001/Leetcode-Solution/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Night-fury001/Leetcode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Night-fury001/Leetcode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Night-fury001/Leetcode-Solution/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->

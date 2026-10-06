@@ -64,6 +64,7 @@
 | [0020-valid-parentheses](https://github.com/Night-fury001/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Night-fury001/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Night-fury001/Leetcode-Solution/tree/master/0032-longest-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Night-fury001/Leetcode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Night-fury001/Leetcode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/Night-fury001/Leetcode-Solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
@@ -81,6 +82,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Night-fury001/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Night-fury001/Leetcode-Solution/tree/master/0032-longest-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Night-fury001/Leetcode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Night-fury001/Leetcode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -88,6 +90,7 @@
 | [0020-valid-parentheses](https://github.com/Night-fury001/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Night-fury001/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Night-fury001/Leetcode-Solution/tree/master/0032-longest-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Night-fury001/Leetcode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Night-fury001/Leetcode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
 |  |
@@ -106,4 +109,8 @@
 |  |
 | ------- |
 | [3467-transform-array-by-parity](https://github.com/Night-fury001/Leetcode-Solution/tree/master/3467-transform-array-by-parity) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Night-fury001/Leetcode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
